@@ -1,1 +1,1 @@
-contiene curso git y github
+esta rama es para desarrollo de aplicaciones 
